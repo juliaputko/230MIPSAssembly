@@ -1,8 +1,8 @@
 # UVic CSC 230, Fall 2020
 # Assignment #1, part C
 
-# Student name: Keanu Reeves
-# Student number: V1234576
+# Student name: Julia Putko
+# Student number: V00889506
 
 
 # Compute M / N, where M must be in $8, N must be in $9,
